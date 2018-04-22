@@ -1,0 +1,14 @@
+{
+	"1": {
+		"name": "destroyer",
+		"ammo": 100,
+		"move_speed": 1,
+		"armor": 1
+	},
+	"2": {
+		"name": "gunship",
+		"ammo": 100,
+		"move_speed": 3,
+		"armor": 3
+	}
+}

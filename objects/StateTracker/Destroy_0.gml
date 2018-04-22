@@ -1,0 +1,2 @@
+--state.enemy_count
+

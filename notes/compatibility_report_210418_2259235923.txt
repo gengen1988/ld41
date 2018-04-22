@@ -1,0 +1,457 @@
+Converting GML script: ${project_dir}\scripts\cmd_create_array\cmd_create_array.gml
+Converted description /// @description  cmd_create_array(script, args)/// @param script
+/// @param  args
+
+Converting GML script: ${project_dir}\scripts\cmd_create\cmd_create.gml
+Converted description /// @description  cmd_create(script, arg0, arg1, arg2, ...)/// @param script
+/// @param  arg0
+/// @param  arg1
+/// @param  arg2
+/// @param  ...
+
+Converting GML script: ${project_dir}\scripts\cmd_execute\cmd_execute.gml
+Converted description /// @description  cmd_execute(cmd)/// @param cmd
+
+Converting GML script: ${project_dir}\scripts\cmd_destroy\cmd_destroy.gml
+Converted description /// @description  cmd_destroy(cmd)/// @param cmd
+
+Converting GML script: ${project_dir}\scripts\cmd_exists\cmd_exists.gml
+Converted description /// @description  cmd_exists(cmd)/// @param cmd
+
+Converting GML script: ${project_dir}\scripts\set_timeout\set_timeout.gml
+Converted description /// @description  set_timeout(cmd, frame)/// @param cmd
+/// @param  frame
+
+Converting GML script: ${project_dir}\scripts\clear_timeout\clear_timeout.gml
+Converted description /// @description  clear_timeout(timeout_id)/// @param timeout_id
+
+Converting GML script: ${project_dir}\scripts\rw\rw.gml
+Converted description /// @description  rw(x)/// @param x
+
+Converting GML script: ${project_dir}\scripts\rh\rh.gml
+Converted description /// @description  rh(x)/// @param x
+
+Converting GML script: ${project_dir}\scripts\second\second.gml
+Converted description /// @description  second(n)/// @param n
+
+Converting GML script: ${project_dir}\scripts\script_apply\script_apply.gml
+Converted description /// @description  script_apply(ind, array)/// @param ind
+/// @param  array
+
+Converting GML script: ${project_dir}\scripts\raycast\raycast.gml
+Converted description /// @description  raycast(x, y, direction, distance, collision_with)/// @param x
+/// @param  y
+/// @param  direction
+/// @param  distance
+/// @param  collision_with
+
+Converting GML script: ${project_dir}\scripts\get_object_by_name\get_object_by_name.gml
+Converted description /// @description  get_object_by_name(str)/// @param str
+
+Converting GML script: ${project_dir}\scripts\get_script_by_name\get_script_by_name.gml
+Converted description /// @description  get_script_by_name(str)/// @param str
+
+Converting GML script: ${project_dir}\scripts\list_to_array\list_to_array.gml
+Converted description /// @description  ds_list_to_array(list)/// @param list
+
+Converting GML script: ${project_dir}\scripts\floor_mod\floor_mod.gml
+Converted description /// @description  floor_mod(a, n)/// @param a
+/// @param  n
+
+Converting GML script: ${project_dir}\scripts\deg_inc\deg_inc.gml
+Converted description /// @description  deg_inc(deg, inc)/// @param deg
+/// @param  inc
+
+Converting GML script: ${project_dir}\scripts\keyboard_8_way\keyboard_8_way.gml
+Converted description /// @description  keyboard_8_way(up, down, left, right)/// @param up
+/// @param  down
+/// @param  left
+/// @param  right
+
+Converting GML script: ${project_dir}\scripts\draw_line_dash\draw_line_dash.gml
+Converted description /// @description  draw_line_dash(x1, y1, x2, y2, dash_length)/// @param x1
+/// @param  y1
+/// @param  x2
+/// @param  y2
+/// @param  dash_length
+
+Converting GML script: ${project_dir}\scripts\draw_rectangle_dash\draw_rectangle_dash.gml
+Converted description /// @description  draw_rectangle_dash(x1, y1, x2, y2, dash_length)/// @param x1
+/// @param  y1
+/// @param  x2
+/// @param  y2
+/// @param  dash_length
+
+Converting GML script: ${project_dir}\scripts\read_file\read_file.gml
+Converted description /// @description  read_file(filepath)/// @param filepath
+
+Converting GML script: ${project_dir}\scripts\read_json_file\read_json_file.gml
+Converted description /// @description  read_json_file(filepath)/// @param filepath
+
+Converting GML script: ${project_dir}\scripts\parse_timeline_json\parse_timeline_json.gml
+Converted description /// @description  parse_timeline_json(json_string)/// @param json_string
+
+Converting GML script: ${project_dir}\scripts\component_create\component_create.gml
+Converted description /// @description  component_create(model_id, component_index)/// @param model_id
+/// @param  component_index
+
+Converting GML script: ${project_dir}\scripts\component_remove\component_remove.gml
+Converted description /// @description  component_remove(model_id, component_id)/// @param model_id
+/// @param  component_id
+
+Converting GML script: ${project_dir}\scripts\send_message\send_message.gml
+Converted description /// @description  send_message(game_object, event_name, arg0, arg1, arg2, ...)/// @param game_object
+/// @param  event_name
+/// @param  arg0
+/// @param  arg1
+/// @param  arg2
+/// @param  ...
+
+Converting GML script: ${project_dir}\scripts\add_cascade\add_cascade.gml
+Converted description /// @description  add_cascade(instance_instance)/// @param instance_instance
+
+Converting GML script: ${project_dir}\scripts\fire_n_way\fire_n_way.gml
+Converted description /// @description  fire_n_way(x, y, speed, n, direction, theta, obj)/// @param x
+/// @param  y
+/// @param  speed
+/// @param  n
+/// @param  direction
+/// @param  theta
+/// @param  obj
+
+Converting GML script: ${project_dir}\scripts\fire_n_way_random\fire_n_way_random.gml
+Converted description /// @description  fire_n_way_random(x, y, speed, count, angle, angle_range, object_index)/// @param x
+/// @param  y
+/// @param  speed
+/// @param  count
+/// @param  angle
+/// @param  angle_range
+/// @param  object_index
+
+Converting GML script: ${project_dir}\scripts\fire_circle\fire_circle.gml
+Converted description /// @description  fire_circle(x, y, speed, n, direction, is_odd, obj)/// @param x
+/// @param  y
+/// @param  speed
+/// @param  n
+/// @param  direction
+/// @param  is_odd
+/// @param  obj
+
+Converting GML script: ${project_dir}\scripts\fire_directional\fire_directional.gml
+Converted description /// @description  fire_directional(x, y, speed, direction, obj)/// @param x
+/// @param  y
+/// @param  speed
+/// @param  direction
+/// @param  obj
+
+Converting GML script: ${project_dir}\scripts\set_n_way_direction\set_n_way_direction.gml
+Converted description /// @description  set_n_way_direction(array_instance, direction, theta)/// @param array_instance
+/// @param  direction
+/// @param  theta
+
+Converting GML script: ${project_dir}\scripts\array_create_compat\array_create_compat.gml
+Converted description /// @description  array_create_compat(size, [value])/// @param size
+/// @param  [value]
+
+Converting GML script: ${project_dir}\scripts\enable\enable.gml
+Converted description /// @description  enable(instance)/// @param instance
+
+Converting GML script: ${project_dir}\scripts\disable\disable.gml
+Converted description /// @description  disable(instance)/// @param instance
+
+Converting GML script: ${project_dir}\scripts\split_mirv\split_mirv.gml
+Converted description /// @description  split_mirv(missile)/// @param missile
+
+Converting GML script: ${project_dir}\scripts\fire_on_destroy\fire_on_destroy.gml
+Converted description /// @description  fire_on_destroy(shot)/// @param shot
+
+Converting GML script: ${project_dir}\scripts\create_mirv\create_mirv.gml
+Converted description /// @description  create_mirv(x, y, sprite_time)/// @param x
+/// @param  y
+/// @param  sprite_time
+
+Converting GML script: ${project_dir}\scripts\create_missile\create_missile.gml
+Converted description /// @description  create_missile(x, y, has_trailer)/// @param x
+/// @param  y
+/// @param  has_trailer
+
+Converting GML script: ${project_dir}\scripts\create_bomb\create_bomb.gml
+Converted description /// @description  create_bomb(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_enemy_shot\create_enemy_shot.gml
+Converted description /// @description  create_enemy_shot(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_leaflet_bomb\create_leaflet_bomb.gml
+Converted description /// @description  create_leaflet_bomb(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_armoured_missile\create_armoured_missile.gml
+Converted description /// @description  create_armoured_missile(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_trailer\create_trailer.gml
+Converted description /// @description  create_trailer(game_object, stay_time)/// @param game_object
+/// @param  stay_time
+
+Converting GML script: ${project_dir}\scripts\create_fader\create_fader.gml
+Converted description /// @description  create_fader(x, y, r)/// @param x
+/// @param  y
+/// @param  r
+
+Converting GML script: ${project_dir}\scripts\create_fire\create_fire.gml
+Converted description /// @description  create_fire(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_explosion\create_explosion.gml
+Converted description /// @description  create_explosion(x, y, r, frame)/// @param x
+/// @param  y
+/// @param  r
+/// @param  frame
+
+Converting GML script: ${project_dir}\scripts\create_surface_explosion\create_surface_explosion.gml
+Converted description /// @description  create_surface_explosion(x, y, r, frame)/// @param x
+/// @param  y
+/// @param  r
+/// @param  frame
+
+Converting GML script: ${project_dir}\scripts\create_bonus\create_bonus.gml
+Converted description /// @description  create_bonus(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_player\create_player.gml
+Converted description /// @description  create_player(x, y, type)/// @param x
+/// @param  y
+/// @param  type
+
+Converting GML script: ${project_dir}\scripts\create_shot\create_shot.gml
+Converted description /// @description  create_shot(x, y, speed, direction, lifespan, power)/// @param x
+/// @param  y
+/// @param  speed
+/// @param  direction
+/// @param  lifespan
+/// @param  power
+
+Converting GML script: ${project_dir}\scripts\create_bomber\create_bomber.gml
+Converted description /// @description  create_bomber(x, y, start_time, stop_time)/// @param x
+/// @param  y
+/// @param  start_time
+/// @param  stop_time
+
+Converting GML script: ${project_dir}\scripts\create_laser_pointer\create_laser_pointer.gml
+Converted description /// @description  create_laser_pointer(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_building\create_building.gml
+Converted description /// @description  create_building(x, y, infrastructure, game_controller)/// @param x
+/// @param  y
+/// @param  infrastructure
+/// @param  game_controller
+
+Converting GML script: ${project_dir}\scripts\create_base_enemy\create_base_enemy.gml
+Converted description /// @description  create_base_enemy(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_platform\create_platform.gml
+Converted description /// @description  create_platform(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\on_destroy\on_destroy.gml
+Converted description /// @description  execute_on_destroy(game_object, cmd)/// @param game_object
+/// @param  cmd
+
+Converting GML script: ${project_dir}\scripts\follow_object\follow_object.gml
+Converted description /// @description  follow_object(game_object, instance)/// @param game_object
+/// @param  instance
+
+Converting GML script: ${project_dir}\scripts\com_lifespan\com_lifespan.gml
+Converted description /// @description  com_lifespan(game_object, frames)/// @param game_object
+/// @param  frames
+
+Converting GML script: ${project_dir}\scripts\com_set_text\com_set_text.gml
+Converted description /// @description  com_set_text(component, text)/// @param component
+/// @param  text
+
+Converting GML script: ${project_dir}\scripts\init\init.gml
+Converted description /// @description  init()
+
+Converting GML script: ${project_dir}\scripts\create_super_bombing_run\create_super_bombing_run.gml
+Converted description /// @description  create_super_bombing_run(x)/// @param x
+
+Converting GML script: ${project_dir}\scripts\enum_definition\enum_definition.gml
+Converted description /// @description  enum_definition()
+
+Converting GML script: ${project_dir}\scripts\create_waterline\create_waterline.gml
+Converted description /// @description  create_waterline(y)/// @param y
+
+Converting GML script: ${project_dir}\scripts\gameover\gameover.gml
+Converted description /// @description  gameover()
+
+Converting GML script: ${project_dir}\scripts\create_high_score_table\create_high_score_table.gml
+Converted description /// @description  create_high_score_table(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\append_high_score\append_high_score.gml
+Converted description /// @description  append_high_score(score)/// @param score
+
+Converting GML script: ${project_dir}\scripts\load_high_score\load_high_score.gml
+Converted description /// @description  load_high_score()
+
+Converting GML script: ${project_dir}\scripts\create_camera\create_camera.gml
+Converted description /// @description  create_camera()
+
+Converting GML script: ${project_dir}\scripts\camera_shake\camera_shake.gml
+Converted description /// @description  camera_shake(value)/// @param value
+
+Converting GML script: ${project_dir}\scripts\create_difficulty_tracker\create_difficulty_tracker.gml
+Converted description /// @description  create_difficulty_tracker()
+
+Converting GML script: ${project_dir}\scripts\create_missile_generator\create_missile_generator.gml
+Converted description /// @description  create_missile_generator(player)/// @param player
+
+Converting GML script: ${project_dir}\scripts\instance_destroy_with_reason\instance_destroy_with_reason.gml
+Converted description /// @description  instance_destroy_with_reason(instance, reason)/// @param instance
+/// @param  reason
+
+Converting GML script: ${project_dir}\scripts\load_player_types\load_player_types.gml
+Converted description /// @description  load_player_types()
+
+Converting GML script: ${project_dir}\scripts\begin_game\begin_game.gml
+Converted description /// @description  begin_game(type_index)/// @param type_index
+
+Converting GML script: ${project_dir}\scripts\get_player\get_player.gml
+Converted description /// @description  get_player()
+
+Converting GML script: ${project_dir}\scripts\create_wave\create_wave.gml
+Converted description /// @description  create_wave(player, tick)/// @param player
+/// @param  tick
+
+Converting GML script: ${project_dir}\scripts\create_n_way_missile\create_n_way_missile.gml
+Converted description /// @description  create_n_way_missile(x, y, speed, n, direction, theta)/// @param x
+/// @param  y
+/// @param  speed
+/// @param  n
+/// @param  direction
+/// @param  theta
+
+Converting GML script: ${project_dir}\scripts\generate_wave\generate_wave.gml
+Converted description /// @description  generate_wave(game_controller, wave_number)/// @param game_controller
+/// @param  wave_number
+
+Converting GML script: ${project_dir}\scripts\show_banner\show_banner.gml
+Converted description /// @description  show_banner(banner)/// @param banner
+
+Converting GML script: ${project_dir}\scripts\create_game_controller\create_game_controller.gml
+Converted description /// @description  create_game_controller()
+
+Converting GML script: ${project_dir}\scripts\create_banner\create_banner.gml
+Converted description /// @description  create_banner("text")/// @param "text"
+
+Converting GML script: ${project_dir}\scripts\fire_shot\fire_shot.gml
+Converted description /// @description  fire_shot(_model, weapon_data)/// @param _model
+/// @param  weapon_data
+
+Converting GML script: ${project_dir}\scripts\place_infrastructure\place_infrastructure.gml
+Converted description /// @description  place_infrastructure(x, y, infrastructure, game_controller)/// @param x
+/// @param  y
+/// @param  infrastructure
+/// @param  game_controller
+
+Converting GML script: ${project_dir}\scripts\cancel_infrastructure\cancel_infrastructure.gml
+Converted description /// @description  cancel_infrastructure(infrastructure)/// @param infrastructure
+
+Converting GML script: ${project_dir}\scripts\create_menu_item\create_menu_item.gml
+Converted description /// @description  create_menu_item(menu, map_data)/// @param menu
+/// @param  map_data
+
+Converting GML script: ${project_dir}\scripts\create_infrastructure\create_infrastructure.gml
+Converted description /// @description  create_infrastructure(menu_item, map_data)/// @param menu_item
+/// @param  map_data
+
+Converting GML script: ${project_dir}\scripts\read_indexed_json_array_file\read_indexed_json_array_file.gml
+Converted description /// @description  read_indexed_json_array_file(filepath)/// @param filepath
+
+Converting GML script: ${project_dir}\scripts\create_mouse_controller\create_mouse_controller.gml
+Converted description /// @description  create_mouse_controller(game_controller)/// @param game_controller
+
+Converting GML script: ${project_dir}\scripts\create_menu\create_menu.gml
+Converted description /// @description  create_menu(x, y, game_controller)/// @param x
+/// @param  y
+/// @param  game_controller
+
+Converting GML script: ${project_dir}\scripts\create_next_button\create_next_button.gml
+Converted description /// @description  create_next_button(x, y, game_controller)/// @param x
+/// @param  y
+/// @param  game_controller
+
+Converting GML script: ${project_dir}\scripts\set_menu_enabled\set_menu_enabled.gml
+Converted description /// @description  set_menu_enabled(build_menu, value)/// @param build_menu
+/// @param  value
+
+Converting GML script: ${project_dir}\scripts\upgrade_building\upgrade_building.gml
+Converted description /// @description  upgrade_building(building)/// @param building
+
+Converting GML script: ${project_dir}\scripts\collider_set_collision\collider_set_collision.gml
+Converted description /// @description  collider_set_collision()
+
+Converting GML script: ${project_dir}\scripts\pick_object\pick_object.gml
+Converted description /// @description  pick_object(object_index)/// @param object_index
+
+Converting GML script: ${project_dir}\scripts\pick_player_ship\pick_player_ship.gml
+Converted description /// @description  pick_player_ship()
+
+Converting GML script: ${project_dir}\scripts\add_observer\add_observer.gml
+Converted description /// @description  add_observer(observable, observer)/// @param observable
+/// @param  observer
+
+Converting GML script: ${project_dir}\scripts\notify\notify.gml
+Converted description /// @description  notify(observable)/// @param observable
+
+Converting GML script: ${project_dir}\scripts\remove_observer\remove_observer.gml
+Converted description /// @description  remove_observer(observable, observer)/// @param observable
+/// @param  observer
+
+Converting GML script: ${project_dir}\scripts\setup_observe\setup_observe.gml
+Converted description /// @description  com_setup_observe(observable, observer)/// @param observable
+/// @param  observer
+
+Converting GML script: ${project_dir}\scripts\create_observable\create_observable.gml
+Converted description /// @description  create_observable()
+
+Converting GML script: ${project_dir}\objects\CameraFollow\Step_2.gml
+Converted builtin - line 4: view_xview[view_current] = _model.x - vh / 2 -> __view_set( e__VW.XView, view_current, _model.x - vh / 2 )
+Converted builtin - line 5: view_yview[view_current] = _model.y - vw / 2 -> __view_set( e__VW.YView, view_current, _model.y - vw / 2 )
+Converted builtin - line 2: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 1: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+
+Converting GML script: ${project_dir}\objects\GUIDrawer\Create_0.gml
+Converted builtin - line 3: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 4: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\Camera\Draw_0.gml
+Converted builtin - line 1: view_xview[view_current] = 0 -> __view_set( e__VW.XView, view_current, 0 )
+Converted builtin - line 4: view_xview[view_current] += random_range(-shake, shake -> __view_set( e__VW.XView, view_current, __view_get( e__VW.XView, view_current ) + (random_range(-shake, shake) )
+Converted builtin - line 2: view_yview[view_current] = 0 -> __view_set( e__VW.YView, view_current, 0 )
+Converted builtin - line 5: view_yview[view_current] += random_range(-shake, shake -> __view_set( e__VW.YView, view_current, __view_get( e__VW.YView, view_current ) + (random_range(-shake, shake) )
+
+Missing audiogroup for sound: 'bgm_play' - setting to default audio group
+Missing audiogroup for sound: 'sfx_explosion' - setting to default audio group
+Missing audiogroup for sound: 'sfx_explosion_2' - setting to default audio group
+Missing audiogroup for sound: 'sfx_pickup' - setting to default audio group
+Missing audiogroup for sound: 'sfx_fire' - setting to default audio group
+Missing audiogroup for sound: 'sfx_lose' - setting to default audio group
+Missing audiogroup for sound: 'sfx_hit' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/room_set_view.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

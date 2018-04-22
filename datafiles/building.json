@@ -1,0 +1,18 @@
+[
+	{
+		"index": "house",
+		"name": "house",
+		"icon": "spr_platform_house",
+		"pic": "spr_menu_item_house",
+		"price": 100,
+		"output": 0
+	},
+	{
+		"index": "armoury",
+		"name": "armoury",
+		"icon": "spr_platform_armoury",
+		"pic": "spr_menu_item_armoury",
+		"price": 100,
+		"output": 10
+	}
+]

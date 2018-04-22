@@ -1,0 +1,2 @@
+ALARM_DESTROY = 0
+

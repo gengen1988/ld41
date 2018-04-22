@@ -1,0 +1,50 @@
+[
+	{
+		"index": "cannon",
+		"burst": 1,
+		"burst_interval": 0.1,
+		"tracking_cursor": false,
+		"shot_damage": 1,
+		"shot_lifespan": 0,
+		"shot_speed": 3,
+		"shot_sprite": "spr_shot_big",
+		"explosion_radius": 20,
+		"fire_sound": "sfx_fire"
+	},
+	{
+		"index": "vulcan",
+		"burst": 5,
+		"burst_interval": 0.1,
+		"tracking_cursor": false,
+		"shot_lifespan": 10,
+		"shot_speed": 6,
+		"shot_damage": 1,
+		"shot_sprite": "spr_shot_big",
+		"explosion_radius": 0,
+		"fire_sound": "sfx_fire"
+	},
+	{
+		"index": "vls",
+		"burst": 1,
+		"burst_interval": 0.1,
+		"tracking_cursor": true,
+		"shot_lifespan": 3,
+		"shot_speed": 0,
+		"shot_damage": 1,
+		"shot_sprite": "spr_shot_big",
+		"explosion_radius": 20,
+		"fire_sound": "sfx_fire"
+	},
+	{
+		"index": "laser",
+		"burst": 1,
+		"burst_interval": 0.1,
+		"tracking_cursor": true,
+		"shot_lifespan": 3,
+		"shot_speed": 0,
+		"shot_damage": 1,
+		"shot_sprite": "spr_shot_big",
+		"explosion_radius": 20,
+		"fire_sound": "sfx_fire"
+	}
+]
